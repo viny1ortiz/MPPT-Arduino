@@ -1,4 +1,4 @@
-# Maximum Power Point Tracking (MPPT) controlled with ESP32
+# Maximum Power Point Tracking (MPPT) controlled with Arduino
 
 The MPPT is an algorithm used by solar charges to get the maximum power from a solar panel. On this university project, instead of using an actual solar panel the solar panel and the battery are simulated with simulating circuits.
 
